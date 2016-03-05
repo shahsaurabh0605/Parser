@@ -1,1 +1,1 @@
-# Parser
+This is a ruby parser which displays links to all the images in a webpage and even saves them in local machine. Temporary image gallery website is created on the localhost which is used for demo parsing.
